@@ -1,6 +1,6 @@
-# Andi Adi Saputra — Portfolio
+# Adi Saputra — Portfolio
 
-Website portofolio pribadi Andi Adi Saputra, mahasiswa Teknik Informatika dan kandidat Full-Stack Developer Intern.
+Website portofolio pribadi Adi Saputra, mahasiswa Teknik Informatika dan kandidat Full-Stack Developer Intern.
 
 ## Live Website
 
@@ -21,4 +21,4 @@ Buka `index.html` secara langsung di browser atau gunakan ekstensi Live Server p
 
 Website diterbitkan otomatis melalui GitHub Pages dari branch `main`.
 
-© 2026 Andi Adi Saputra
+© 2026 Adi Saputra
